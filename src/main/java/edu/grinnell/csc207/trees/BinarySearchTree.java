@@ -194,8 +194,8 @@ public class BinarySearchTree<T extends Comparable<? super T>> {
 
     /*
      * The three cases of deletion are:
-     * 1. (TODO: fill me in!)
-     * 2. (TODO: fill me in!)
+     * 1. Recursion
+     * 2. Iteration
      * 3. (TOOD: fill me in!)
      */
 
